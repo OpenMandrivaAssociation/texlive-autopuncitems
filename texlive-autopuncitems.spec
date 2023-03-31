@@ -1,6 +1,6 @@
 Name:		texlive-autopuncitems
 Version:	63045
-Release:	1
+Release:	2
 Summary:	Automatically punctuate lists
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autopuncitems
