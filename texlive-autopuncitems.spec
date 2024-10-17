@@ -3,7 +3,7 @@ Version:	63045
 Release:	2
 Summary:	Automatically punctuate lists
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/autopuncitems
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/autopuncitems
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autopuncitems.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/autopuncitems.doc.r%{version}.tar.xz
